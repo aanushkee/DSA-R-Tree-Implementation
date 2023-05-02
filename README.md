@@ -8,15 +8,17 @@ The CBS algorithm, which is used for splitting the nodes in the given R tree, wo
 
 Download the file finalproject.c and run the script file in your VSCode terminal.
 
+```bash
 gcc -c finalproject.c
 gcc -o exe finalproject.c
 ./exe
+```
 
-#Usage
+# Usage
 
 Input the data points into a data file named data.txt for inserting the same into the R tree data structure.
 
-#Contributing
+# Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Reach out if you have any doubts or want to improve the code.
 
